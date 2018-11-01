@@ -1,0 +1,36 @@
+header {position: center;
+    align-content: center;
+    background-color: rgb(71, 71, 71);;
+    font-family: Tahoma;
+    font-size: 16px;
+    height: 250px;
+    padding-left: 7%;
+    padding-right: 7%;
+    border-radius:20px;
+    color: white;
+}
+
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+
+
+body{
+    background: rgb(95, 95, 95);
+}
+
+blockquote{align-content: center;
+position: center;}
+
+#log {align-content: center;
+font-family:Tahoma;
+color:rgb(255, 255, 255);}
+
+h2{
+font-family: 'American Typewriter';
+font-size:30px;
+color: rgb(255, 255, 255);
+letter-spacing: 2px;}
+
+#iniciando {font-color:green;}
